@@ -58,6 +58,7 @@ plot(fw);
 fw2=(abs(fw)).^2;
 subplot(3,2,5);
 plot(fw2);
+
 ```
 # OUTPUT:
 
